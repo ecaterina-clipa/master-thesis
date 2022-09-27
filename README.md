@@ -1,2 +1,3 @@
 # master-thesis
-Codes and data for Master Thesis
+Description of the folders and files related to the Master Thesis in Quantitative Finance.
+
